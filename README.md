@@ -1,3 +1,7 @@
-Registro de productos hecho con Laravel PHP por ebuzz
+#Registro de productos hecho con Laravel PHP por ebuzz
 
-*No esta terminado
+##Que incluye
+-Registro de usuarios
+-Registro de articulos
+
+##No esta terminado
